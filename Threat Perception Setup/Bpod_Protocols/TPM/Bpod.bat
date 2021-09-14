@@ -1,0 +1,1 @@
+"D:\Program Files\Matlab\Matlab2019a\bin\matlab.exe" -nosplash -nodesktop -r "cd('C:\Users\TPM\Desktop'); run('D:\gin\TPM\30_code\Bpod_Protocols\TPM\OpenBpod.m');"
