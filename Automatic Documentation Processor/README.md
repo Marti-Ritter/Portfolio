@@ -25,8 +25,8 @@ With the help of the report any user could check if their records appeared to be
 With this processor I was able to greatly reduce the time spent on writing the legally required documentation for the entire lab, and we are currently in the process of developing a server-based extension of the processor, to store the weights and statuses of every mouse centrally.
 This approach would also allow us to ensure that every entry in the database matches the permissions and qualifications of the respective lab members.
 
-![Aspects of the question "Is this user allowed to do this procedure in this protocol?"](images/Permission.jpg)
+![Aspects of the question "Is this user allowed to do this procedure in this protocol?"](images/Permission.png)
 
 Below you can see a diagram of the planned elements (white), the elements which already exist (blue), and optional elements of this solution (orange).
 
-![Elements of the online version of the processor](images/OnlineParserStructure.jpg)
+![Elements of the online version of the processor](images/OnlineParserStructure.png)
