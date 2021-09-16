@@ -1,4 +1,4 @@
-# Exploring Changes in Gene Expression (R and Python)
+# Exploring Changes in Gene Expression
 
 ![Online dashboard for the visualization of RNA sequencing data](images/Dashboard.jpg)
 

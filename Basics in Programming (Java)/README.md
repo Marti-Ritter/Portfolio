@@ -1,4 +1,4 @@
-# Basics in Programming (Java)
+# Basics in Programming
 
 ![Output from Tree.java](images/Tree.jpg)
 
