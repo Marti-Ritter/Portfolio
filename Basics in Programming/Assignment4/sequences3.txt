@@ -1,8 +1,0 @@
-> AccIII
-AAAABBBB
-> Acc65I
-AABBBBAACC
-> zwei Stop-Codons 
-CCCBBB
-> BbvCI
-ABABABABBBC
