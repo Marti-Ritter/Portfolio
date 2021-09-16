@@ -1,4 +1,4 @@
-# Exploring Aquaponics Data (C#)
+# Exploring Aquaponics Data
 
 ![Main menu of the data explorer](images/Visev_main.png)
 
