@@ -2,7 +2,7 @@
 
 ![Main menu of the data explorer](images/Visev_main.png)
 
-During the last semester of my bachelor's I decided to write my Bachelor's thesis at the Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB for short). They worked on a novel project to combine the breeding of fish and the growing of tomatoes in a nearly closed loop. The potential to reduce the ecological impact of food production and the complex systems needed to optimize the production cycle fascinated me. Since there were no prior integrated ways to visualize the diverse dataset collected in the project, I was tasked with developing a software solution to accomplish this task.
+During the last semester of my bachelor's I decided to write my thesis at the Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB for short). They worked on a novel project to combine the breeding of fish and the growing of tomatoes in a nearly closed loop. The potential to reduce the ecological impact of food production and the complex systems needed to optimize the production cycle fascinated me. Since there were no prior integrated ways to visualize the diverse dataset collected in the project, I was tasked with developing a software solution to accomplish this task.
 
 ![Main menu of the data explorer](images/Visev_login.jpg)
 
